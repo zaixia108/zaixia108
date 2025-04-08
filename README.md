@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-ten-iota.vercel.app/api?username=zaixia108&show_icons=true&include_all_commits=true&theme=Gradient&hide_border=true&count_private=true" alt="zaixia108's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-ten-iota.vercel.app/api/top-langs/?username=zaixia108&layout=compact&theme=Gradient&hide_border=true&count_private=true" /></a> |
 <!--
 **zaixia108/zaixia108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
